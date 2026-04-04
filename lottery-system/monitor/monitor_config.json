@@ -1,8 +1,0 @@
-{
-  "auto_start": {
-    "后端服务 (Backend)": true,
-    "管理后台 (Admin)": true,
-    "抽奖展示 (Display)": true
-  },
-  "dark_mode": false
-}
